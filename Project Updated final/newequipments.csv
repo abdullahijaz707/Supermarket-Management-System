@@ -1,0 +1,14 @@
+Item ID,Item Name,Category,Qty In Hand,Used Qty,Remaining Stock
+I001,foodrack,Shelves,5,5,0
+I002,groceryrack,Shelves,5,4,1
+I003,dergentsrack,Shelves,5,3,2
+I004,shoppingbags,Bag,100,80,20
+I005,computers,Management,30,20,10
+I006,reciptprinter,Management,20,15,5
+I007,airconditioners,Management,10,5,5
+I008,watercoolers,Management,15,10,5
+I009,barcodescanner,Management,15,10,5
+I010,baskets,Baskets,25,20,5
+I011,trolleys,Trolleys,25,20,5
+I012,cctvs,Security,15,15,0
+I013,metaldetector,Security,10,5,5

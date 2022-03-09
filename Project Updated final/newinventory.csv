@@ -1,0 +1,60 @@
+Product ID,Product Name,Product Description,Product Category,Price (Rs),Quantity In Hand,Sold Quantity,Remaining Stock
+P001,sunslik,Shampoo,Home Appliances,150,70,35,35
+P002,head&shoulders,Shampoo,Home Appliances,160,60,30,30
+P003,pantene,Shampoo,Home Appliances,160,65,25,40
+P004,garnier,Shampoo,Home Appliances,165,55,35,20
+P005,herbalessences,Shampoo,Home Appliances,170,50,40,10
+P006,neutrogena,Shampoo,Home Appliances,160,40,25,15
+P007,selsunblue,Shampoo,Home Appliances,150,45,30,15
+P008,lux,Hand Wash,Home Appliances,50,70,30,40
+P009,dove,Hand Wash,Home Appliances,50,65,35,30
+P010,safeguard,Hand Wash,Home Appliances,50,60,40,20
+P011,lifeboy,Hand Wash,Home Appliances,60,55,45,10
+P012,palmoliv,Hand Wash,Home Appliances,60,50,35,15
+P013,bonus,Washing Powder,Home Appliances,100,45,25,20
+P014,ariel,Washing Powder,Home Appliances,110,40,30,10
+P015,surfexcel,Washing Powder,Home Appliances,110,35,15,20
+P016,bright,Washing Powder,Home Appliances,100,30,20,10
+P017,cool&cool,Hand Sanitizer,Home Appliances,70,50,35,15
+P018,dettol,Hand Sanitizer,Home Appliances,70,55,30,25
+P019,berger,Paint,Home Appliances,500,40,30,20
+P020,brighto,Paint,Home Appliances,450,45,25,20
+P021,diomand,Paint,Home Appliances,450,35,30,5
+P022,sparco,Paint,Home Appliances,400,30,15,15
+P023,nippon,Paint,Home Appliances,500,30,15,15
+P024,doublebed,Furniture,Furniture,10000,30,20,10
+P025,singlebed,Furniture,Furniture,5000,25,20,5
+P026,diningtables,Furniture,Furniture,2000,30,25,5
+P027,diningchairs,Furniture,Furniture,1000,25,10,15
+P028,studytables,Furniture,Furniture,1000,30,15,15
+P029,chairs,Furniture,Furniture,1000,25,20,5
+P030,tables,Furniture,Furniture,700,20,10,10
+P031,mirrors,Furniture,Furniture,600,15,10,5
+P032,computertables ,Furniture,Furniture,1200,40,20,20
+P033,computerchairs,Furniture,Furniture,800,30,10,20
+P034,singlecloset,Furniture,Furniture,900,15,5,10
+P035,doublecloset,Furniture,Furniture,1100,20,10,10
+P036,tripleclosed,Furniture,Furniture,1200,20,10,10
+P037,dinnerset,Grocery,Home Appliances,250,50,35,15
+P038,spoons,Grocery,Home Appliances,100,30,10,20
+P039,knife,Grocery,Home Appliances,170,25,10,15
+P040,kettle,Grocery,Home Appliances,300,20,5,15
+P041,glass,Grocery,Home Appliances,180,40,30,10
+P042,jugs,Grocery,Home Appliances,170,30,20,10
+P043,bowls,Grocery,Home Appliances,120,25,5,20
+P044,iphone7,Smart Phones,Mobile Phones,10000,20,10,10
+P045,iphone8,Smart Phones,Mobile Phones,15000,25,15,10
+P046,iphone12,Smart Phones,Mobile Phones,30000,30,25,5
+P047,iphone13,Smart Phones,Mobile Phones,50000,40,30,10
+P048,delllatitude,Laptop,Laptop,35000,40,30,10
+P049,notepad,Laptop,Laptop,37000,45,30,15
+P050,macbook,Laptop,Laptop,75000,40,35,5
+P051,football,Football,Sports Items,650,30,25,5
+P052,hardbat,Cricket Bat,Sports Items,1200,40,30,10
+P053,tenisbat,Cricket Bat,Sports Items,700,30,25,5
+P054,plasticbat,Cricket Bat,Sports Items,300,40,30,10
+P055,hardball,Cricket Bat,Sports Items,250,35,30,5
+P056,tenisball,Cricket Bat,Sports Items,150,45,30,5
+P057,plasticball,Cricket Bat,Sports Items,70,25,20,5
+P058,basketball,Basket Ball,Sports Items,450,30,15,15
+P059,voleyball,Voley Ball,Sports Items,500,35,20,15
